@@ -3,15 +3,15 @@
 ## Things You Should Know
 
 ### negotiations.csv
-id
-buyer_id
-claims
+- id
+- buyer_id
+- claims
 
 ### negotiation_events.ssv
-id
-negotiation_id
-legal_entity_id
-action
+- id
+- negotiation_id
+- legal_entity_id
+- action
 
 ### Notes
 - You can *assume* the negotiation event with the highest ID is the most recent
