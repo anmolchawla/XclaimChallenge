@@ -7,7 +7,7 @@
 - buyer_id
 - claims
 
-### negotiation_events.ssv
+### negotiation_events.csv
 - id
 - negotiation_id
 - legal_entity_id
