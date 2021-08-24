@@ -25,6 +25,6 @@ Please dedicate no more than four hours to this challenge.
 1. Number of buyers (y) with an offer per month (x).
 2. Number of claims with an offer (y) per month (x).
 
-### Questions
+### Answer Questions
 1. What percent of total negotiations have a seller action/event?
 2. Does seller conversion change based on receiving an offer from more than one buyer (`buyer_entity_id`)?
