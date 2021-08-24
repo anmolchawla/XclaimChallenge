@@ -19,7 +19,7 @@
 - Seller actions/events are any event not made by the initial `buyer_entity_id` and may for the purposes of conversion, include only: offer, accept, and decline
 
 ## Your Task
-Please dedicate no more than four hours to this challenge.
+Please dedicate no more than four hours to this challenge. Clone this repository and submit a link to your repository when you are done.
 
 ### Create Visualizations
 1. Number of buyers (y) with an offer per month (x).
