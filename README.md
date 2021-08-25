@@ -22,7 +22,7 @@
 - Warning: this data represents real world data and may have some inconsistencies.
 
 ## Your Task
-Please dedicate no more than four hours to this challenge. Clone this repository and submit a link to your repository when you are done.
+Please dedicate no more than four hours to this challenge. Clone this repository and send Stuart, stuart@x-claim.com, a link to your repository when you are done. be sure include screenshots of the visualizations in your submission.
 
 ### Create Visualizations
 1. Number of buyers (y) with an offer per month (x).
