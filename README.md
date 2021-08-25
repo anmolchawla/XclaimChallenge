@@ -4,11 +4,13 @@
 
 ### negotiations.csv
 - id
-- buyer_id
+- created_at
+- buyer_entity_id
 - claims
 
 ### negotiation_events.csv
 - id
+- created_at
 - negotiation_id
 - legal_entity_id
 - action
